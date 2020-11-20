@@ -8,4 +8,4 @@
 
 ## Week 2
 
-[Here](hw2/odev total.html) is my first homework. Analyzing and visualizing the EPL and bookmakers data.
+[Here](hw2/odev-total.html) is my first homework. Analyzing and visualizing the EPL and bookmakers data.
