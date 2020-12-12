@@ -12,6 +12,6 @@
 
 ## Homework 2
 
-[Here](homework2(ucuncu)/homework2/finalhtm.md) you can see my homework 2: Dimensionality reduction for time series data
+[Here](homework2(ucuncu)/homework2/finalhtm.html) you can see my homework 2: Dimensionality reduction for time series data
 
 [Here](homework2(ucuncu)/homework2/kod_text.txt) you can find my code.
