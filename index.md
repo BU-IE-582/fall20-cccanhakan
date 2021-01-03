@@ -20,4 +20,4 @@
 
 [Here](hw3/final markdown3.html) you can see my homework 3.
 
-[Here](hw3 code jupyter) you can find my code for homework 3.
+[Here](hw3/hw3 code jupyter.ipynb) you can find my code for homework 3.
