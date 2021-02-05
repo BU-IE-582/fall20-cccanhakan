@@ -23,3 +23,11 @@
 [Here](hw3/hw3 code jupyter.ipynb) you can find my code for homework 3 (jupyter). 
 
 [Here](hw3/hw3 code jupy-r.r) you can find my code for homework 3 (txt).
+
+## Homework 4
+
+NOTE: I thought that this homework was the voluntary one as there was no following homework (and counting from hw0 we may call this as the 5th one). So I did not create an html file and upload it (as i didnt want to rerun the code in knitr again). However after a conversation with a classmate I am uploading this just to be sure. Apologies for the delay.
+
+[Here](hw4/hw4.html) you can see my homework 4.
+
+[Here](hw4/homework 4 MAIN.ipynb) you can find the code for my homework. (jupyter)
