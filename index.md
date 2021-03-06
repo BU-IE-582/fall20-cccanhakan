@@ -34,5 +34,4 @@ NOTE: I thought that this homework was the voluntary one as there was no followi
 
 ## Project
 
-[Here](project/Project-Report.html) you can see my report for project
-[Here](https://www.dropbox.com/s/7h16uupe5t4z0p6/can%20hakan%20dagidir%20project%20presentation.mov?dl=0) is the video of the presentation.
+[Here](project/Project-Report.html) you can see my report for project.
